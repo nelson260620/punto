@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Generate Password";
+}
+
+<h2>Generate Password</h2>
+
+@using (Html.BeginForm("Generate", "Password", FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="length">Length:</label>
+        <input type="number" class="form-control" id="length" name="length" value="12" min="4" max="128" />
+    </div>
+    <button type="submit" class="btn btn-primary">Generate</button>
+}
+
+<div id="generatedPassword"></div>
+
+@section Scripts {
+    <script>
+        $('form').submit(function (event) {
+            event.preventDefault();
+            var form = $(this);
+            $.ajax({
+                url: form.attr('action'),
+                method: 'POST',
+                data: form.serialize(),
+                success: function (data) {
+                    $('#generatedPassword').html(data);
+                }
+            });
+        });
+    </script>
+}

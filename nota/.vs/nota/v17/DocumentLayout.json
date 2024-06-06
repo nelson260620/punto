@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyect\\c#\\nota\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|c:\\proyect\\c#\\nota\\nota\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|solutionrelative:nota\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|c:\\proyect\\c#\\nota\\nota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|solutionrelative:nota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|c:\\proyect\\c#\\nota\\nota\\views\\note\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|solutionrelative:nota\\views\\note\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|c:\\proyect\\c#\\nota\\nota\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|solutionrelative:nota\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|c:\\proyect\\c#\\nota\\nota\\date\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD5898-C233-4ABB-99E9-CAF23F73E4FA}|nota\\nota.csproj|solutionrelative:nota\\date\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\nota\\nota\\Program.cs",
+              "RelativeDocumentMoniker": "nota\\Program.cs",
+              "ToolTip": "C:\\proyect\\c#\\nota\\nota\\Program.cs",
+              "RelativeToolTip": "nota\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:20:22.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\nota\\nota\\Views\\Note\\Create.cshtml",
+              "RelativeDocumentMoniker": "nota\\Views\\Note\\Create.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\nota\\nota\\Views\\Note\\Create.cshtml",
+              "RelativeToolTip": "nota\\Views\\Note\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:19:49.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\nota\\nota\\Views\\Note\\Index.cshtml",
+              "RelativeDocumentMoniker": "nota\\Views\\Note\\Index.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\nota\\nota\\Views\\Note\\Index.cshtml",
+              "RelativeToolTip": "nota\\Views\\Note\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:18:18.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\nota\\nota\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "nota\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\proyect\\c#\\nota\\nota\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "nota\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:12:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\nota\\nota\\date\\Note.cs",
+              "RelativeDocumentMoniker": "nota\\date\\Note.cs",
+              "ToolTip": "C:\\proyect\\c#\\nota\\nota\\date\\Note.cs",
+              "RelativeToolTip": "nota\\date\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:10:07.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

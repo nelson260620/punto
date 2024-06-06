@@ -1,0 +1,17 @@
+﻿@model IEnumerable<SurveyPlatform.date.Survey>
+
+<h2>Surveys</h2>
+
+@foreach (var survey in Model)
+{
+    <div>
+        <h3>@survey.Title</h3>
+        <p>@survey.Description</p>
+        <p>Created At: @survey.CreatedAt</p>
+        <a asp-action="Answer" asp-route-id="@survey.Id">Answer</a> |
+        <a asp-action="Results" asp-route-id="@survey.Id">Results</a>
+        <hr />
+    </div>
+}
+
+<a asp-action="Create">Create Survey</a>

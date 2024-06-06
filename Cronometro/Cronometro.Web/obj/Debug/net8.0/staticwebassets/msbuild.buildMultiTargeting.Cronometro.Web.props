@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cronometro.Web.props" />
+</Project>

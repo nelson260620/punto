@@ -1,0 +1,40 @@
+﻿@model List<Reservation.Data.Reservation>
+
+@{
+    ViewData["Title"] = "Reservas";
+}
+
+<h2>Reservas</h2>
+
+<p>
+    <a asp-action="Create">Crear Nueva Reserva</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Usuario</th>
+            <th>Fecha</th>
+            <th>Confirmada</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reservation in Model)
+        {
+            <tr>
+                <td>@reservation.Id</td>
+                <td>@reservation.UserName</td>
+                <td>@reservation.Date.ToShortDateString()</td>
+                <td>@(reservation.Confirmed ? "Sí" : "No")</td>
+                <td>
+                    @if (!reservation.Confirmed)
+                    {
+                        <a asp-action="Confirm" asp-route-id="@reservation.Id">Confirmar</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

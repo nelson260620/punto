@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyect\\c#\\Contrase\u00F1a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|c:\\proyect\\c#\\contrase\u00F1a\\contrase\u00F1a.web\\views\\shared\\_generatedpasswordpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|solutionrelative:contrase\u00F1a.web\\views\\shared\\_generatedpasswordpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|c:\\proyect\\c#\\contrase\u00F1a\\contrase\u00F1a.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|solutionrelative:contrase\u00F1a.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|c:\\proyect\\c#\\contrase\u00F1a\\contrase\u00F1a.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|solutionrelative:contrase\u00F1a.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|c:\\proyect\\c#\\contrase\u00F1a\\contrase\u00F1a.web\\views\\password\\generate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|solutionrelative:contrase\u00F1a.web\\views\\password\\generate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|c:\\proyect\\c#\\contrase\u00F1a\\contrase\u00F1a.web\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|solutionrelative:contrase\u00F1a.web\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|c:\\proyect\\c#\\contrase\u00F1a\\contrase\u00F1a.web\\data\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3000FBDC-4DD9-4F5C-9A09-E323A3C8FF9B}|Contrase\u00F1a.Web\\Contrase\u00F1a.Web.csproj|solutionrelative:contrase\u00F1a.web\\data\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_GeneratedPasswordPartial.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Views\\Shared\\_GeneratedPasswordPartial.cshtml",
+              "RelativeDocumentMoniker": "Contrase\u00F1a.Web\\Views\\Shared\\_GeneratedPasswordPartial.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Views\\Shared\\_GeneratedPasswordPartial.cshtml",
+              "RelativeToolTip": "Contrase\u00F1a.Web\\Views\\Shared\\_GeneratedPasswordPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T15:38:23.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Contrase\u00F1a.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Contrase\u00F1a.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:37:29.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Contrase\u00F1a.Web\\Program.cs",
+              "ToolTip": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Program.cs",
+              "RelativeToolTip": "Contrase\u00F1a.Web\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:35:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generate.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Views\\Password\\Generate.cshtml",
+              "RelativeDocumentMoniker": "Contrase\u00F1a.Web\\Views\\Password\\Generate.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Views\\Password\\Generate.cshtml",
+              "RelativeToolTip": "Contrase\u00F1a.Web\\Views\\Password\\Generate.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T15:34:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "Contrase\u00F1a.Web\\Controllers\\PasswordController.cs",
+              "ToolTip": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "Contrase\u00F1a.Web\\Controllers\\PasswordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:32:43.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\data\\Contrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Contrase\u00F1a.Web\\data\\Contrase\u00F1a.cs",
+              "ToolTip": "C:\\proyect\\c#\\Contrase\u00F1a\\Contrase\u00F1a.Web\\data\\Contrase\u00F1a.cs",
+              "RelativeToolTip": "Contrase\u00F1a.Web\\data\\Contrase\u00F1a.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:31:21.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

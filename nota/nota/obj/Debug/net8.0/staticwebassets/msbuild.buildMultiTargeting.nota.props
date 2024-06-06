@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nota.props" />
+</Project>

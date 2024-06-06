@@ -1,0 +1,21 @@
+﻿@model SurveyPlatform.date.SurveyResultViewModel
+
+<h2>Survey Results: @Model.Title</h2>
+
+@foreach (var questionResult in Model.QuestionResults)
+{
+    <h3>@questionResult.Text</h3>
+    <ul>
+        @if (questionResult.OptionResults != null)
+        {
+            foreach (var optionResult in questionResult.OptionResults)
+            {
+                <li>@optionResult.Text - Votes: @optionResult.Votes</li>
+            }
+        }
+        else
+        {
+            <li>No results available</li>
+        }
+    </ul>
+}

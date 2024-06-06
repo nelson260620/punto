@@ -1,0 +1,19 @@
+﻿@model IEnumerable<nota.date.Note>
+
+@{
+    ViewBag.Title = "Notes";
+}
+
+<h2>Notes</h2>
+
+@foreach (var note in Model)
+{
+    <div>
+        <h3>@note.Title</h3>
+        <p>@note.Content</p>
+        <p>Category: @note.CategoryId</p>
+        <hr />
+    </div>
+}
+
+@Html.ActionLink("Create Note", "Create")

@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Resultado de la Calculadora de Propinas";
+}
+
+<h2>Resultado de la Calculadora de Propinas</h2>
+
+<div>
+    <p>Monto de la Cuenta: @ViewData["BillAmount"]</p>
+    <p>Porcentaje de Propina: @ViewData["TipPercentage"]%</p>
+    <p>Monto de la Propina: @ViewData["TipAmount"]</p>
+</div>
+
+<a href="@Url.Action("Index", "TipCalculator")">Calcular de Nuevo</a>

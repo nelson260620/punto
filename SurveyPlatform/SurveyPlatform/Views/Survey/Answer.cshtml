@@ -1,0 +1,32 @@
+﻿@model SurveyPlatform.date.Survey
+
+<h2>Answer Survey</h2>
+
+@if (Model != null && Model.Questions != null)
+{
+    <form asp-action="Answer">
+        @foreach (var question in Model.Questions)
+        {
+            <h4>@question.Text</h4>
+            @if (question.Options != null)
+            {
+                foreach (var option in question.Options)
+                {
+                    <div>
+                        <input type="radio" name="question[@question.Id]" value="@option.Id" /> @option.Text
+                    </div>
+                }
+            }
+            else
+            {
+                <p>No options available</p>
+            }
+        }
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+}
+else
+{
+    <p>No survey data available</p>
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyect\\c#\\SurveyPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|c:\\proyect\\c#\\surveyplatform\\surveyplatform\\controllers\\surveyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|solutionrelative:surveyplatform\\controllers\\surveyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|c:\\proyect\\c#\\surveyplatform\\surveyplatform\\views\\survey\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|solutionrelative:surveyplatform\\views\\survey\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|c:\\proyect\\c#\\surveyplatform\\surveyplatform\\views\\survey\\answer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|solutionrelative:surveyplatform\\views\\survey\\answer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|c:\\proyect\\c#\\surveyplatform\\surveyplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|solutionrelative:surveyplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|c:\\proyect\\c#\\surveyplatform\\surveyplatform\\date\\surveyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|solutionrelative:surveyplatform\\date\\surveyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|c:\\proyect\\c#\\surveyplatform\\surveyplatform\\views\\survey\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|solutionrelative:surveyplatform\\views\\survey\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|c:\\proyect\\c#\\surveyplatform\\surveyplatform\\views\\survey\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4260571C-8CFD-43DE-8A31-81F7A09D74F4}|SurveyPlatform\\SurveyPlatform.csproj|solutionrelative:surveyplatform\\views\\survey\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Answer.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Answer.cshtml",
+              "RelativeDocumentMoniker": "SurveyPlatform\\Views\\Survey\\Answer.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Answer.cshtml",
+              "RelativeToolTip": "SurveyPlatform\\Views\\Survey\\Answer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:59:01.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Create.cshtml",
+              "RelativeDocumentMoniker": "SurveyPlatform\\Views\\Survey\\Create.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Create.cshtml",
+              "RelativeToolTip": "SurveyPlatform\\Views\\Survey\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:59:00.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Index.cshtml",
+              "RelativeDocumentMoniker": "SurveyPlatform\\Views\\Survey\\Index.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Index.cshtml",
+              "RelativeToolTip": "SurveyPlatform\\Views\\Survey\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:58:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "SurveyPlatform\\Program.cs",
+              "ToolTip": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Program.cs",
+              "RelativeToolTip": "SurveyPlatform\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:49:00.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Results.cshtml",
+              "RelativeDocumentMoniker": "SurveyPlatform\\Views\\Survey\\Results.cshtml",
+              "ToolTip": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Views\\Survey\\Results.cshtml",
+              "RelativeToolTip": "SurveyPlatform\\Views\\Survey\\Results.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:48:36.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SurveyPlatform.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Controllers\\SurveyPlatform.cs",
+              "RelativeDocumentMoniker": "SurveyPlatform\\Controllers\\SurveyPlatform.cs",
+              "ToolTip": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\Controllers\\SurveyPlatform.cs",
+              "RelativeToolTip": "SurveyPlatform\\Controllers\\SurveyPlatform.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:45:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SurveyPlatform.cs",
+              "DocumentMoniker": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\date\\SurveyPlatform.cs",
+              "RelativeDocumentMoniker": "SurveyPlatform\\date\\SurveyPlatform.cs",
+              "ToolTip": "C:\\proyect\\c#\\SurveyPlatform\\SurveyPlatform\\date\\SurveyPlatform.cs",
+              "RelativeToolTip": "SurveyPlatform\\date\\SurveyPlatform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:43:21.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

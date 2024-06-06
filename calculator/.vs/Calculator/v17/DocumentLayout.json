@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\source\\repos\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|c:\\users\\nelso\\source\\repos\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|c:\\users\\nelso\\source\\repos\\calculator\\calculator\\controllers\\tipcalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controllers\\tipcalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|c:\\users\\nelso\\source\\repos\\calculator\\calculator\\views\\tipcalculator\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\tipcalculator\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|c:\\users\\nelso\\source\\repos\\calculator\\calculator\\views\\tipcalculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\tipcalculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|c:\\users\\nelso\\source\\repos\\calculator\\calculator\\data\\tipcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D3410D-840B-4352-8472-A1AADF90E9E3}|Calculator\\Calculator.csproj|solutionrelative:calculator\\data\\tipcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:59:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Views\\TipCalculator\\Result.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\TipCalculator\\Result.cshtml",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Views\\TipCalculator\\Result.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\TipCalculator\\Result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T15:58:49.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Views\\TipCalculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\TipCalculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Views\\TipCalculator\\Index.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\TipCalculator\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T15:57:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Data\\TipCalculation.cs",
+              "RelativeDocumentMoniker": "Calculator\\Data\\TipCalculation.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Data\\TipCalculation.cs",
+              "RelativeToolTip": "Calculator\\Data\\TipCalculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:55:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipCalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Controllers\\TipCalculatorController.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controllers\\TipCalculatorController.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\calculator\\Calculator\\Controllers\\TipCalculatorController.cs",
+              "RelativeToolTip": "Calculator\\Controllers\\TipCalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:54:53.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

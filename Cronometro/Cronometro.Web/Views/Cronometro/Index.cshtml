@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Cronómetro Online";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div id="cronometro">
+    <span id="tiempo">00:00:00</span>
+</div>
+
+<div>
+    <button id="iniciar">Iniciar</button>
+    <button id="pausar">Pausar</button>
+    <button id="reiniciar">Reiniciar</button>
+    <button id="registrar">Registrar</button>
+</div>
+
+<ul id="registros"></ul>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        let inicioTiempo, tiempoActual, tiempoAcumulado = 0, intervalo, enMarcha = false;
+
+        function actualizarDisplay(tiempo) {
+            let horas = Math.floor(tiempo / 3600000);
+            let minutos = Math.floor((tiempo % 3600000) / 60000);
+            let segundos = Math.floor((tiempo % 60000) / 1000);
+            let milisegundos = tiempo % 1000;
+
+            $("#tiempo").text(
+                `${horas.toString().padStart(2, '0')}:${minutos.toString().padStart(2, '0')}:${segundos.toString().padStart(2, '0')}`
+            );
+        }
+
+        function iniciarCronometro() {
+            if (!enMarcha) {
+                inicioTiempo = Date.now() - tiempoAcumulado;
+                intervalo = setInterval(() => {
+                    tiempoActual = Date.now() - inicioTiempo;
+                    actualizarDisplay(tiempoActual);
+                }, 10);
+                enMarcha = true;
+            }
+        }
+
+        function pausarCronometro() {
+            if (enMarcha) {
+                clearInterval(intervalo);
+                tiempoAcumulado = tiempoActual;
+                enMarcha = false;
+            }
+        }
+
+        function reiniciarCronometro() {
+            clearInterval(intervalo);
+            tiempoActual = 0;
+            tiempoAcumulado = 0;
+            enMarcha = false;
+            actualizarDisplay(0);
+            $("#registros").empty();
+        }
+
+        function registrarTiempo() {
+            if (enMarcha) {
+                let registro = $("<li></li>").text($("#tiempo").text());
+                $("#registros").append(registro);
+            }
+        }
+
+        $(document).ready(function() {
+            $("#iniciar").click(iniciarCronometro);
+            $("#pausar").click(pausarCronometro);
+            $("#reiniciar").click(reiniciarCronometro);
+            $("#registrar").click(registrarTiempo);
+        });
+    </script>
+}
